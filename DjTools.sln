@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DjFilesLastWriteTimeFixer", "DjFilesLastWriteTimeFixer\DjFilesLastWriteTimeFixer.csproj", "{FE4ECE6F-28FA-4112-AA84-7D2CC6E5DA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraktorPlaylistGenerator", "TraktorPlaylistGenerator\TraktorPlaylistGenerator.csproj", "{FE99AB3C-8995-4B02-AE98-8403B4621BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4ECE6F-28FA-4112-AA84-7D2CC6E5DA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4ECE6F-28FA-4112-AA84-7D2CC6E5DA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4ECE6F-28FA-4112-AA84-7D2CC6E5DA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4ECE6F-28FA-4112-AA84-7D2CC6E5DA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE99AB3C-8995-4B02-AE98-8403B4621BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE99AB3C-8995-4B02-AE98-8403B4621BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE99AB3C-8995-4B02-AE98-8403B4621BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE99AB3C-8995-4B02-AE98-8403B4621BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

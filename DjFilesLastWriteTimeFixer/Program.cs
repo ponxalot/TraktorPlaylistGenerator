@@ -15,7 +15,7 @@ internal static class Program
             @"V:\Audio\Musik\Alles";
 
         // Erst mit true testen!
-        const bool dryRun = false;
+        const bool dryRun = true;
 
         try
         {
