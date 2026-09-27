@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+.vs/
+.idea
+.vscode/
+packages/
+
+*.user
+*.dll
